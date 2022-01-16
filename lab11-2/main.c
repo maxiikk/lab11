@@ -92,5 +92,6 @@ int main(int argc, char *argv[]) {
 	}
 	
 	free(p);
+	free(pd);
 	return 0;
 }
